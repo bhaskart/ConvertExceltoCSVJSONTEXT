@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Workspace/junit-4.8.2.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Workspace/commons-lang3-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Workspace/poi-bin-3.7-20101029.tar/poi-3.7/dom4j-full.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Workspace/poi-bin-3.7-20101029.tar/poi-3.7/poi-3.7-20101029.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Workspace/poi-bin-3.7-20101029.tar/poi-3.7/poi-examples-3.7-20101029.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Workspace/poi-bin-3.7-20101029.tar/poi-3.7/poi-ooxml-3.7-20101029.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Workspace/poi-bin-3.7-20101029.tar/poi-3.7/poi-ooxml-schemas-3.7-20101029.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Workspace/poi-bin-3.7-20101029.tar/poi-3.7/poi-scratchpad-3.7-20101029.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Workspace/poi-bin-3.7-20101029.tar/poi-3.7/stax-api-1.0-2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Workspace/poi-bin-3.7-20101029.tar/poi-3.7/xmlbeans-2.4.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
